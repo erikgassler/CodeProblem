@@ -1,0 +1,6 @@
+# build / IDE files
+bin
+obj
+.idea
+
+*.user
